@@ -15,4 +15,4 @@ AI-assisted construction bidding tool that extracts structured data from bid doc
 Python · JavaScript · React · vLLM · SQL · Git · Linux
 
 ## Contact
-www.linkedin.com/in/antoan-nguyen-49867b444 · wontoan11@gmail.com
+www.linkedin.com/in/antoan-nguyen-49867b444 · antoannguyen70@gmail.com
