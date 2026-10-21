@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Antoan
 
-<!--
-**AntoanNgu/AntoanNgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate from Cal State Fullerton, focused on full stack and applied AI engineering.
+CompTIA Security+ certified.
 
-Here are some ideas to get you started:
+## What I've built
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**CreteBid** (industry-sponsored capstone)
+AI-assisted construction bidding tool that extracts structured data from bid documents.
+- Built the React frontend
+- Set up the vLLM serving environment for an OCR model (dots.ocr)
+- Wrote Python scripts to extract tables from OCR output
+
+## Tech
+Python · JavaScript · React · vLLM · SQL · Git · Linux
+
+## Contact
+www.linkedin.com/in/antoan-nguyen-49867b444 · wontoan11@gmail.com
